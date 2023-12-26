@@ -1,0 +1,2 @@
+# learningLC
+leetcode practice
